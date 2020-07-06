@@ -3,5 +3,6 @@
   "description": "The harvest of Thor olives",
   "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/imgs/harvest.png",
   "quantity": "90kg",
-  "method": "by hand"
+  "method": "by hand",
+  "randomValue": "N6L!Qw@EEdXP844"
 }
