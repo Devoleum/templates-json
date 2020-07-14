@@ -1,0 +1,10 @@
+{
+  "name": "Transport",
+  "description": "The transport of Thor olive oil",
+  "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/imgs/transport2.png",
+  "quantity": "80kg",
+  "vehicle": "tesla cybertruck",
+  "location": "Rome",
+  "location_geo": "41.9339521,12.4547231",
+  "randomValue": "N1c!Qs@iGdVPq44"
+}
