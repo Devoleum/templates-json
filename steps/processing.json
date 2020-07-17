@@ -1,0 +1,10 @@
+{
+  "name": "Processing",
+  "description": "Transform Thor olives into extra virgin olive oil",
+  "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/imgs/processing.png",
+  "oil_quantity": "80kg",
+  "mill": "Olio antico",
+  "location": "Rome",
+  "location_geo": "41.903837,12.488764",
+  "randomValue": "N6x!Qw@iEdAPx22"
+}
