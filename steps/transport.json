@@ -1,10 +1,12 @@
 {
   "name": "Transport",
   "description": "The transport of Thor olives",
-  "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/imgs/transport.png",
+  "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/transport.png",
   "quantity": "90kg",
   "vehicle": "tesla cybertruck",
   "location": "Rome",
   "location_geo": "41.903837,12.488764",
-  "randomValue": "N6x!Qw@iEdXPq44"
+  "randomValue": "N6x!Qw@iEdXPq44",
+  "thumbnail" : "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/thumbnails/small_transport.jpg" 
+
 }

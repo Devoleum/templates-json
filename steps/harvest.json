@@ -1,8 +1,10 @@
 {
   "name": "Harvest",
   "description": "The harvest of Thor olives",
-  "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/imgs/harvest.png",
+  "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/harvest.png",
   "quantity": "90kg",
   "method": "by hand",
-  "randomValue": "N6L!Qw@EEdXP844"
+  "randomValue": "N6L!Qw@EEdXP844",
+  "thumbnail" : "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/thumbnails/small_harvest.jpg" 
+
 }
