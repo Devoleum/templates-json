@@ -11,11 +11,11 @@
   "date": "20/10/2019"
 },
 "it": {
-  "name": "Harvest",
-  "description": "The harvest of Thor olives",
+  "name": "Raccolta",
+  "description": "Raccolta olive Thor",
   "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/harvest.png",
   "quantità": "90kg",
-  "metodo": "by hand",
+  "metodo": "a mano",
   "randomValue": "N6L!Qw@EEdXP844",
   "thumbnail": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/thumbnails/small_harvest.png",
   "date": "20/10/2019"
