@@ -17,13 +17,13 @@
   "name": "Processamento",
   "description": "Trasformazione delle olive in olio extra vergine di oliva",
   "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/processing.png",
-  "oil_quantity": "80kg",
+  "olio_quantità": "80kg",
   "mill": "Olio antico",
   "location": "Roma",
   "location_geo": "41.903837,12.488764",
   "randomValue": "N6x!Qw@iEdAPx22",
   "thumbnail": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/thumbnails/small_processing.png",
-  "date": "21/10/2019"
+  "data": "21/10/2019"
 }
 }
 
