@@ -1,29 +1,27 @@
-
 {
-"multi_lang": true,
-"en": {
-  "name": "Processing",
-  "description": "Transform Thor olives into extra virgin olive oil",
-  "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/processing.png",
-  "oil_quantity": "80kg",
-  "mill": "Olio antico",
-  "location": "Rome",
-  "location_geo": "41.903837,12.488764",
-  "randomValue": "N6x!Qw@iEdAPx22",
-  "thumbnail": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/thumbnails/small_processing.png",
-  "date": "21/10/2019"
-},
-"it": {
-  "name": "Processamento",
-  "description": "Trasformazione delle olive in olio extra vergine di oliva",
-  "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/processing.png",
-  "olio_quantità": "80kg",
-  "mill": "Olio antico",
-  "location": "Roma",
-  "location_geo": "41.903837,12.488764",
-  "randomValue": "N6x!Qw@iEdAPx22",
-  "thumbnail": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/thumbnails/small_processing.png",
-  "data": "21/10/2019"
+   "multi_lang":true,
+   "en":{
+      "name":"Processing",
+      "description":"Transform Thor olives into extra virgin olive oil",
+      "image":"https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/processing.png",
+      "oil_quantity":"80kg",
+      "mill":"Olio antico",
+      "location":"Rome",
+      "location_geo":"41.903837,12.488764",
+      "randomValue":"N6x!Qw@iEdAPx22",
+      "thumbnail":"https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/thumbnails/small_processing.png",
+      "date":"21/10/2019"
+   },
+   "it":{
+      "name":"Processamento",
+      "description":"Trasformazione delle olive in olio extra vergine di oliva",
+      "image":"https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/processing.png",
+      "olio_quantità":"80kg",
+      "mill":"Olio antico",
+      "location":"Roma",
+      "location_geo":"41.903837,12.488764",
+      "randomValue":"N6x!Qw@iEdAPx22",
+      "thumbnail":"https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/thumbnails/small_processing.png",
+      "date":"21/10/2019"
+   }
 }
-}
-
