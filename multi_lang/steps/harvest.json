@@ -1,23 +1,23 @@
 {
-"multi_lang": true,
-"en": {
-  "name": "Harvest",
-  "description": "The harvest of Thor olives",
-  "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/harvest.png",
-  "quantity": "90kg",
-  "method": "by hand",
-  "randomValue": "N6L!Qw@EEdXP844",
-  "thumbnail": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/thumbnails/small_harvest.png",
-  "date": "20/10/2019"
-},
-"it": {
-  "name": "Raccolta",
-  "description": "Raccolta olive Thor",
-  "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/harvest.png",
-  "quantità": "90kg",
-  "metodo": "a mano",
-  "randomValue": "N6L!Qw@EEdXP844",
-  "thumbnail": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/thumbnails/small_harvest.png",
-  "date": "20/10/2019"
-}
+   "multi_lang":true,
+   "en":{
+      "name":"Harvest",
+      "description":"The harvest of Thor olives",
+      "image":"https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/harvest.png",
+      "quantity":"90kg",
+      "method":"by hand",
+      "randomValue":"N6L!Qw@EEdXP844",
+      "thumbnail":"https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/thumbnails/small_harvest.png",
+      "date":"20/10/2019"
+   },
+   "it":{
+      "name":"Raccolta",
+      "description":"Raccolta olive Thor",
+      "image":"https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/harvest.png",
+      "quantità":"90kg",
+      "metodo":"a mano",
+      "randomValue":"N6L!Qw@EEdXP844",
+      "thumbnail":"https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/thumbnails/small_harvest.png",
+      "date":"20/10/2019"
+   }
 }
