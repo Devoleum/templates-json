@@ -1,2 +1,2 @@
 # JSON Templates
-Examples and templates of JSON that can be used in Devoleum to create profiles, histories and steps. You can find **multiguage** JSON templates in the [multi-lang directory](https://github.com/Devoleum/templates-json/tree/master/multi_lang)
+Examples and templates of JSON that can be used in Devoleum to create [profiles](https://github.com/Devoleum/templates-json/tree/master/merchants), [histories](https://github.com/Devoleum/templates-json/tree/master/histories) and [steps](https://github.com/Devoleum/templates-json/tree/master/steps). You can find **multiguage** JSON templates in the [multi-lang directory](https://github.com/Devoleum/templates-json/tree/master/multi_lang)
