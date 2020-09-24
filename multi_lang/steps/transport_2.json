@@ -1,4 +1,6 @@
 {
+"multi_lang": true,
+"en": {
   "name": "Transport",
   "description": "The transport of Thor olive oil",
   "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/transport2.png",
@@ -7,6 +9,21 @@
   "location": "Rome",
   "location_geo": "41.9339521,12.4547231",
   "randomValue": "N1c!Qs@iGdVPq44",
-  "thumbnail" : "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/thumbnails/small_transport2.png" 
-
+  "thumbnail": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/thumbnails/small_transport2.png",
+  "date": "23/10/2019"
+},
+"it": {
+ "name": "Trasporto",
+  "description": "Trasporto delle olive di Thor",
+  "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/transport2.png",
+  "quantità": "80kg",
+  "veicolo": "tesla cybertruck",
+  "location": "Roma",
+  "location_geo": "41.9339521,12.4547231",
+  "randomValue": "N1c!Qs@iGdVPq44",
+  "thumbnail": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/thumbnails/small_transport2.png",
+  "data": "23/10/2019"
 }
+}
+
+
