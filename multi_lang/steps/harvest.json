@@ -1,6 +1,6 @@
 {
-multi_lang: true,
-en: {
+"multi_lang": true,
+"en": {
   "name": "Harvest",
   "description": "The harvest of Thor olives",
   "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/harvest.png",
@@ -10,7 +10,7 @@ en: {
   "thumbnail": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/thumbnails/small_harvest.png",
   "date": "20/10/2019"
 },
-it: {
+"it": {
   "name": "Harvest",
   "description": "The harvest of Thor olives",
   "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/harvest.png",
