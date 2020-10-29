@@ -1,7 +1,7 @@
 {
   "name": "Thor",
+  "section": "history",
   "description": "The olive tree located in Vico del Gargano (Apulia, Italy) and nicknamed Thor",
   "image": "https://gateway.pinata.cloud/ipfs/QmVzmSu4L98dA99SQf3znHpLtD6eGx8R6MJ8DguiQJLJMD",
   "thumbnail" : "https://raw.githubusercontent.com/Devoleum/templates-json/master/histories/imgs/thumbnails/small_thor.jpg" 
-
 }
