@@ -1,7 +1,7 @@
 {
   "name": "Transport",
-  "description": "The transport of Thor olives",
   "section": "step",
+  "description": "The transport of Thor olives",
   "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/transport.png",
   "quantity": "90kg",
   "vehicle": "tesla cybertruck",

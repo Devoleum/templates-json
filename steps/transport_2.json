@@ -1,5 +1,6 @@
 {
   "name": "Transport",
+  "section": "step",
   "description": "The transport of Thor olive oil",
   "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/transport2.png",
   "quantity": "80kg",

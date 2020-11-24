@@ -1,5 +1,6 @@
 {
   "name": "Processing",
+  "section": "step",
   "description": "Transform Thor olives into extra virgin olive oil",
   "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/processing.png",
   "oil_quantity": "80kg",

@@ -3,5 +3,5 @@
   "section": "merchant_profile",
   "description": "Devoleum is made by Lorenzo Zaccagnini and Elisa Romondia. Using Devoleum a flow of data becomes a meaningful story, making it immutable on the blockchain, showing the digital or physical passages that have helped make the product unique and valuable. The story can be easily consulted on a storyboard in the Devoleum web platform, easily accessible from any device just by scanning a smart tag.",
   "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/merchants/imgs/devoleum.png",
-  "thumbnail" : "https://raw.githubusercontent.com/Devoleum/templates-json/master/merchants/imgs/thumbnails/small_devoleum.png" 
+  "thumbnail": "https://raw.githubusercontent.com/Devoleum/templates-json/master/merchants/imgs/thumbnails/small_devoleum.png"
 }

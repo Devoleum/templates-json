@@ -1,17 +1,18 @@
 {
   "multi_lang": true,
+  "section": "history",
   "en": {
     "name": "Thor",
     "description": "The olive tree located in Vico del Gargano (Apulia, Italy) and nicknamed Thor",
     "image": "https://gateway.pinata.cloud/ipfs/QmVzmSu4L98dA99SQf3znHpLtD6eGx8R6MJ8DguiQJLJMD",
-    "thumbnail" : "https://raw.githubusercontent.com/Devoleum/templates-json/master/histories/imgs/thumbnails/small_thor.jpg",
-    "date" : "20/10/2019"
+    "thumbnail": "https://raw.githubusercontent.com/Devoleum/templates-json/master/histories/imgs/thumbnails/small_thor.jpg",
+    "date": "20/10/2019"
   },
   "it": {
     "name": "Thor",
     "description": "Ulivo locato in Vico del Gargano (Apulia, Italy) e soprannominato Thor",
     "image": "https://gateway.pinata.cloud/ipfs/QmVzmSu4L98dA99SQf3znHpLtD6eGx8R6MJ8DguiQJLJMD",
-    "thumbnail" : "https://raw.githubusercontent.com/Devoleum/templates-json/master/histories/imgs/thumbnails/small_thor.jpg",
-    "date" : "20/10/2019"
+    "thumbnail": "https://raw.githubusercontent.com/Devoleum/templates-json/master/histories/imgs/thumbnails/small_thor.jpg",
+    "date": "20/10/2019"
   }
 }
