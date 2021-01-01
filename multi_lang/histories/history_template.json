@@ -1,0 +1,16 @@
+{
+  "multi_lang": true,
+  "section": "history",
+  "en": {
+    "name": "Template",
+    "description": "Please edit your history and include a link to a public JSON that uses this template and data structure.",
+    "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/merchants/imgs/dog_template.png",
+    "thumbnail": "https://raw.githubusercontent.com/Devoleum/templates-json/master/merchants/imgs/dog_template.png"
+  },
+  "it": {
+    "name": "Template",
+    "description": "Modifica la tua storia includendo un link ad un JSON pubblico che usa questo template e struttura dati.",
+    "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/merchants/imgs/dog_template.png",
+    "thumbnail": "https://raw.githubusercontent.com/Devoleum/templates-json/master/merchants/imgs/dog_template.png"
+  }
+}
