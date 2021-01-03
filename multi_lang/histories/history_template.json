@@ -5,12 +5,14 @@
     "name": "Template",
     "description": "Please edit your history and include a link to a public JSON that uses this template and data structure.",
     "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/merchants/imgs/dog_template.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/Devoleum/templates-json/master/merchants/imgs/dog_template.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/Devoleum/templates-json/master/merchants/imgs/dog_template.jpg",
+    "date": "01/12/2021"
   },
   "it": {
     "name": "Template",
     "description": "Modifica la tua storia includendo un link ad un JSON pubblico che usa questo template e struttura dati.",
     "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/merchants/imgs/dog_template.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/Devoleum/templates-json/master/merchants/imgs/dog_template.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/Devoleum/templates-json/master/merchants/imgs/dog_template.jpg",
+    "date": "01/12/2021"
   }
 }
